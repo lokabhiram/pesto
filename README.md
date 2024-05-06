@@ -24,7 +24,7 @@ This document outlines the proposed data engineering solution for AdvertiseX, ad
 - Grafana
 
 ## Architecture Diagram
-![Architecture Diagram](https://github.com/lokabhiram/pesto/architecture_diagram.png)
+![Architecture Diagram](https://github.com/lokabhiram/pesto/architectural_diagram.png)
 
 
 ## Data Ingestion
